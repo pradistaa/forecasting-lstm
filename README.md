@@ -1,0 +1,2 @@
+# forecasting-lstm
+Machine Learning-based forecasting with the Long Short Term Memory (LSTM) method can be one way of making forecasts. The output of this research is the forecasting of the price of the service product which is expected to make the company take policies to take actions that can minimize losses for the client and the company. In this study, the author will use the Long Short Term Memory (LSTM) method to predict the price of internet services at the Hypernet Indodata company using time series data.
